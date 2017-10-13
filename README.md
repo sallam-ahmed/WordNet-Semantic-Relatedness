@@ -1,7 +1,3 @@
-# WordNet-Semantic-Relatedness
-Algorithms 2016 | FCIS-ASU Project Repository
-
-**The project was deliverd to Faculty Of Computer and Information Sciences as The CS-Algorithms 16 Course Project**
-
-
-### Files To Be Uploaded Soon 
+# WordNet-Noun-Semantics
+WordNet Noun Semantics Project - Algorithm 16 Course
+![Alt text](/_others/_timeline.png?raw=true "Project Timeline")
